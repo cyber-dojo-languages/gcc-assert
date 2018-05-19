@@ -3,6 +3,8 @@ CFLAGS += -Wsequence-point
 CFLAGS += -Wstrict-prototypes
 CFLAGS += -Wmissing-prototypes
 CFLAGS += -Wshadow -Wfloat-equal -O
+CFLAGS += -fprofile-arcs
+CFLAGS += -ftest-coverage
 
 H_FILES = $(wildcard *.h)
 COMPILED_H_FILES = $(patsubst %.h,%.compiled_h,$(H_FILES))
