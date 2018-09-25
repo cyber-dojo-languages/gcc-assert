@@ -1,6 +1,8 @@
 CFLAGS += -I.
 CFLAGS += -std=c11
-CFLAGS += -Wall -Wextra -Werror
+CFLAGS += -Wall
+CFLAGS += -Wextra
+CFLAGS += -Werror
 CFLAGS += -Wsequence-point
 CFLAGS += -Wstrict-prototypes
 CFLAGS += -Wmissing-prototypes
