@@ -1,5 +1,5 @@
 {
-  "xdisplay_name": "C (gcc), assert",
+  "display_name": "C (gcc), assert",
 
   "visible_filenames": [
      "hiker.tests.c",
