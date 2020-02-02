@@ -1,3 +1,6 @@
-# C (gcc), assert
+[![CircleCI](https://circleci.com/gh/cyber-dojo-languages/gcc-assert.svg?style=svg)](https://circleci.com/gh/cyber-dojo-languages/gcc-assert)
 
-![Build Status](https://travis-ci.org/cyber-dojo-languages/gcc-assert.svg?branch=master)
+## display_name="C (gcc), assert"
+## image_name="cyberdojofoundation/gcc_assert"
+
+![cyber-dojo.org home page](https://github.com/cyber-dojo/cyber-dojo/blob/master/shared/home_page_snapshot.png)
