@@ -1,5 +1,5 @@
 CFLAGS += -I.
-CFLAGS += -std=c11
+CFLAGS += -std=c18
 CFLAGS += -Wall
 CFLAGS += -Wextra
 CFLAGS += -Wsequence-point
